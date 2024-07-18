@@ -34,6 +34,7 @@
   <a href="https://wa.me/5563984533367" title="WhatsApp target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
+<img src="https://raw.githubusercontent.com/willyancr/willyancr/output/snake.svg" alt="Snake animation" />
 
 
 
