@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&padding-left=5&padding-right=5" alt="React"/>
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs&logoColor=white&padding-left=5&padding-right=5" alt="Nextjs"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwindcss"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&padding-left=5&padding-right=5" alt="Node.js"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white&padding-left=5&padding-right=5" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&padding-left=6&padding-right=6" alt="GitHub"/>
 </p>
@@ -35,6 +36,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5563984533367" title="WhatsApp target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://x.com/WillyanCosta" title="X/Twitter" target="_blank">
+  <img src="https://img.shields.io/badge/-X/Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=x&logoColor=white&padding-left=5&padding-right=5" alt="X"/></a>
+  <a href="mailto:willyancr@gmail.com" title="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white&padding-left=5&padding-right=5" alt="Gmail"/></a>
 </p>
 
 
